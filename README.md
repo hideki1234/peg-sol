@@ -1,2 +1,2 @@
 # peg-sol
-Solver for triangular peg solitaire in Hakell
+Solver for triangular peg solitaire in Haskell
