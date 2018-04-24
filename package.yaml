@@ -1,7 +1,7 @@
 name:                peg-sol
-version:             0.1.0.0
+version:             0.1.0.1
 github:              "hideki1234/peg-sol"
-license:             MIT License
+license:             MIT
 author:              "Hideki Ikeda"
 maintainer:          ""
 copyright:           "2018 Hideki Ikeda"
