@@ -1,18 +1,17 @@
 # peg-sol
 Solver for triangular peg solitaire in Haskell
 
-##Prerequisite
+## Prerequisite
 * stack - you can get it from [here](https://docs.haskellstack.org/en/stable/README/).
 
-##Build
-Run a command from the peg-sol directory to build the solver.
+## Build
+Run a command from the peg-sol directory to build the solver.  
 `> stack build`
 
-##Run
+## Run
 
-Run a command fro mthe peg-sol directory.
-
-> stack exec peg-sol-exe *hole-number*
+Run a command fro mthe peg-sol directory.  
+`> stack exec peg-sol-exe *hole-number*`
 
 *hole-number* (0-14) specifies the initial empty hole. The holes are numbered as
 
